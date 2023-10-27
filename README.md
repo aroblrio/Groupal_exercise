@@ -5,3 +5,5 @@ Moneda (Euros, Dólares, Yenes, Pesos, Dinares, Coronas, Francos)
 Masa (Kilogramos, Gramos, Libras, Onzas)
 Tiempo (Horas, Minutos, Segundos)
 Velocidad (Kilómetros por hora, metros por segundo)
+
+Para iniciar este código, copia el repositorio 
