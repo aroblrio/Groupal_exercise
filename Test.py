@@ -1,4 +1,10 @@
 on= True 
+def pedir_unidades():
+    unidades=input(f"¿De que a que unidad quieres cambiar?(separadas por una coma): ")
+    unidades.split(",")
+    uinicial=unidades [0]
+    ufinal=unidades[1]
+
 
 while on:
     print(f"¿Que tipo de unidad quieres convertir?")
@@ -12,23 +18,23 @@ while on:
     conversion= input(f"")
 
     if conversion== 1:
-        inicial=input()
+        pedir_unidades()
 
     if conversion==2:
-        inicial=input()
+        pedir_unidades()
 
     if conversion==3:
-        inicial=input()
+        pedir_unidades()
 
     if conversion==4:
-        inicial=input()
+        pedir_unidades()
 
     if conversion==5:
-        inicial=input()
+        pedir_unidades()
 
     if conversion==6:
-        inicial=input()
-        
+        pedir_unidades()
+
     if conversion==7:
         break
 
