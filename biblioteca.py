@@ -4,6 +4,8 @@ class Physics:
     def __init__(self):
         # Gravitational values for different celestial bodies
         self.gravity = [3.7, 8.87, 9.8, 3.71, 24.79, 10.44, 8.87, 11.15]
+    def parabolic_shot(self,velocity,angle,height):
+        
 
     def freefall(self, height, gravity_index):
         # Calculate freefall motion and print the height at different times
