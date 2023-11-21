@@ -1,9 +1,4 @@
-Este código es un conversor de unidades de:
-Longitud (Metros, Millas, Yardas, Pies, Pulgadas)
-Temperatura (Grados Centígrados, Farenheit, Kelvin)
-Moneda (Euros, Dólares, Yenes, Pesos, Dinares, Coronas, Francos) 
-Masa (Kilogramos, Gramos, Libras, Onzas)
-Tiempo (Horas, Minutos, Segundos)
-Velocidad (Kilómetros por hora, metros por segundo)
+In this project we have made a calculator of the different subjects in the physics degree, for example, from analytics, statistic, physics and algebra. In order to run the program you need to download the "UAX calculator" folder, open Visual Studio Code with the previous folder. When you have the folder opened, press ctrl ñ to open the console and then, run the program.
 
-Para iniciar este código, copia el repositorio en tu dispositivo, abre la consola utilizando el comando Ctrl+Ñ y escribe en ella python .\Unit_converter.py (o python u +Tabulador)
+
+
